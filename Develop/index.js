@@ -61,15 +61,15 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 
 function init() {
-    inquirer
-        .prompt(questions)
-        .then((answers) => {
-      const fileName = 'README.md'; // set the output file name
-      const markdown = generateMarkdown(answers); 
-      writeToFile(fileName, answers);
+    inquirer //inquirer will prompt the questions for the user 
+        .prompt(questions) //questions is the array defined above 
+        .then((answers) => { //then the answers are passed as an argument to the callback function 
+      const fileName = 'README.md'; // set the output file name 
+      const markdown = generateMarkdown(answers); //
+      writeToFile(fileName, answers); //this function will write the Markdown content to the specified file 
     })
-    .catch((err) => {
-        console.log(err); 
+    .catch((err) => { //if an error ocurrs the catch method will catch the error 
+        console.log(err); //and log it into the console 
     });
   }
 
