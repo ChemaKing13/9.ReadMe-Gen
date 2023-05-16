@@ -2,8 +2,15 @@
 
 <h2>Description</h2>
 
-This is a command-line application that generates a README file with most of the apects that a pro README should have. It prompts the user for input and dynamically generates a README file based on the provided information. 
+This is a command-line application that generates a README file with most of the apects that a pro README should have. It prompts the user for input and dynamically generates a README file based on the provided information. It helps to ensure taht your projects have informative and well structured README files, wich are really important in software development community. 
 
+Some of the advantages that this project could offer to the users are: 
+
+* Time-saving 
+* Consistency 
+* Standardization
+* Professional presentation 
+* Enhanced Project Visibility
 
 <h2>Built With</h2> 
 
