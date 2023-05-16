@@ -39,9 +39,8 @@ https://drive.google.com/file/d/1CSM4ukyW_swSXfFUpW9hUV6WNYOWT1D0/view?usp=share
 
 <h2>Preview</h2
 
- <img width="1268" alt="Screenshot 2023-05-16 at 16 45 26" src="https://github.com/ChemaKing13/9.ReadMe-Gen/assets/124849302/a372ec47-250a-444c-b3f4-dd43c8dc3a82">
-  
-  
+<img width="1268" alt="Screenshot 2023-05-16 at 16 51 15" src="https://github.com/ChemaKing13/9.ReadMe-Gen/assets/124849302/d4e6abe5-3e6a-4294-a651-b34830adc2bf">
+    
 <img width="727" alt="Screenshot 2023-05-16 at 16 44 09" src="https://github.com/ChemaKing13/9.ReadMe-Gen/assets/124849302/7ee945c5-cbf6-43f2-aafe-75b5f780d360">
 
 
