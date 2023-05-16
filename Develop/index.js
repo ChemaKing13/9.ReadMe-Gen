@@ -37,7 +37,13 @@ const questions = [
     type: 'input', 
     name: 'installation',
     message: 'Provide some installation details: '
-  }
+  },
+  {
+    type: 'input',
+    name: 'test',
+    message: 'What command should be run to test?',
+    default: 'npm test', 
+  }, 
 ];
 
 
