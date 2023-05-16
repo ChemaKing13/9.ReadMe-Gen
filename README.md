@@ -20,7 +20,7 @@ Some of the advantages that this project could offer to the users are:
 
 
 <h2>Credits</h2>
-In order to complete this challenge, I applied the knowledge seen in class, as well as additional resources on the Internet, such as articles and videos. The starter code wich gave me an idea of how to structure my code was retrieved from: https://github.com/coding-boot-camp/potential-enigma. 
+In order to complete this challenge, I applied the knowledge seen in class, as well as additional resources from the Internet, such as articles and videos. The starter code wich gave me an idea of how to structure my code was retrieved from: https://github.com/coding-boot-camp/potential-enigma. 
 
 * https://collabnix.com/how-to-install-and-configure-nvm-on-mac-os/
 * https://app.screencastify.com/videos
